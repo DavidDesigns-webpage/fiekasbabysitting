@@ -22,16 +22,6 @@ body, html{
     font-family: "Merriweather", sans-serif;
     font-size: 16px;
 }
-.bgVideo{
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100dvh;
-    object-fit: cover;
-    z-index: -1;
-}
 header{
     font-family: "Noto Sans", sans-serif;
     background-image: url(headerBack.svg);
@@ -152,7 +142,7 @@ h1, h2{
     color: #f2f2f2;
 }
 .photoBanner1{
-    background-image: url(Image/photoOne.jpg);
+    background-image: url(Image/photoOne.webp);
     background-size: cover;
     background-position: center;
     overflow: hidden;
