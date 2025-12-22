@@ -93,10 +93,10 @@ main{
 footer{
     display: flex;
     justify-content: center;
-    background-color: #090709;
+    background-color: #cfcfcf;
     color: #cfd7e6;
     margin-top: auto;
-    padding: 0;
+    padding: 10px 0 5px 0;
     width: 100%;
 }
 .container{
