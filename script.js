@@ -7,7 +7,7 @@ window.addEventListener('load', () => {
 
 const navButton = document.querySelector(".navButton");
 const nav = document.querySelector(".mobileNav");
-const sctollToTop = document.querySelector(".scrollToTop");
+const scrollToTop = document.querySelector(".scrollToTop");
 
 navButton.addEventListener("click",(event) =>{
     event.stopPropagation();
@@ -22,14 +22,14 @@ document.addEventListener("click",()=>{
 
 window.addEventListener("scroll",() =>{
     if (window.scrollY > 300){
-        sctollToTop.classList.add("show");
+        scrollToTop.classList.add("show");
     }
     else {
-        sctollToTop.classList.remove("show");
+        scrollToTop.classList.remove("show");
     }
 });
 
-sctollToTop.addEventListener("click",()=>{
+scrollToTop.addEventListener("click",()=>{
     window.scrollTo({
         top: 0,
         behavior: "smooth"
