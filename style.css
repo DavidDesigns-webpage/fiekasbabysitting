@@ -139,6 +139,7 @@ h1, h2{
     object-position: center;
     display: block;
     position: absolute;
+    will-change: transform;
 }
 .photoBanner h1{
     z-index: 0;
@@ -157,6 +158,7 @@ h1, h2{
     margin-top: 15px;
     border-top: #2c2c2c solid 2px;
     border-bottom: #2c2c2c solid 2px;
+    transform: translateZ(0);
 }
 .packagePanel h1{
     margin: 0;
