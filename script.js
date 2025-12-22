@@ -1,3 +1,10 @@
+document.body.classList.add('loading');
+window.addEventListener('load', () => {
+    const loader = document.getElementById('loader');
+    loader.classList.add('hide');
+    document.body.classList.remove('loading');
+});
+
 const navButton = document.querySelector(".navButton");
 const nav = document.querySelector(".mobileNav");
 const sctollToTop = document.querySelector(".scrollToTop");
