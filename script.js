@@ -19,6 +19,9 @@ nav.addEventListener("click",(event) =>{
 document.addEventListener("click",()=>{
     nav.classList.remove("show");
 });
+document.addEventListener("scroll",()=>{
+    nav.classList.remove("show");
+});
 
 window.addEventListener("scroll",() =>{
     if (window.scrollY > 300){

@@ -271,6 +271,13 @@ h1, h2{
 .bannerText{
     background-color: rgba(0,0,0,0.3);
 }
+.endRead{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 @media (min-width: 800px) {
     .navButton{
         display: none;
