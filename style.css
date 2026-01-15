@@ -273,7 +273,7 @@ h1, h2{
 }
 .endRead{
     display: flex;
-    width: 100%;
+    padding: 10px;
     justify-content: center;
     align-items: center;
     text-align: center;
