@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="9.2082052mm"
-   height="5.9004884mm"
-   viewBox="0 0 9.2082053 5.9004883"
+   width="8.0670719mm"
+   height="6.5622792mm"
+   viewBox="0 0 8.0670719 6.5622791"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,14 +24,15 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="8.3956828"
-     inkscape:cx="61.817486"
-     inkscape:cy="41.152103"
+     inkscape:cx="53.24165"
+     inkscape:cy="44.844477"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
+     inkscape:current-layer="layer1"
+     showguides="true" /><defs
      id="defs1"><rect
        x="-5.7172241"
        y="11.791775"
@@ -41,10 +42,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-57.858243,-67.680149)"><g
+     transform="translate(-60.133888,-66.703208)"><g
        style="fill:none;stroke:currentColor;stroke-width:1.5"
        id="g1"
-       transform="matrix(0.26458333,0,0,0.26458333,59.174077,66.041709)"><path
+       transform="matrix(0.26458333,0,0,0.26458333,61.001901,65.505967)"><path
          stroke-linecap="round"
          stroke-linejoin="round"
          d="M 3.7820885,6.942531 H 20.282089 m -16.5000005,5.25 C 4.8024425,11.306776 15.176969,5.2706114 19.198016,11.692406 M 3.7820885,17.442531 H 20.282089"
@@ -94,15 +95,15 @@
          ry="1.3387101" /></g><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10619px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.258849"
-       x="60.841625"
-       y="70.555817"
+       x="62.869713"
+       y="70.100403"
        id="text1"
        transform="scale(0.96340905,1.0379807)"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.258849"
-         x="60.841625"
-         y="70.555817">Menu</tspan></text><text
+         x="62.869713"
+         y="70.100403">Menu</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,58.31134,67.680149)"
        id="text2"
