@@ -100,10 +100,11 @@ main{
 }
 footer{
     display: flex;
+    flex-direction: column;
     background-color: inherit;
     color: #cfd7e6;
     margin-top: auto;
-    padding: 10px 0 5px 0;
+    padding: 0;
     width: 100%;
 }
 #contact{
@@ -117,6 +118,13 @@ footer{
 .flash {
   background-color: #75179e;
   border-radius: 20px;
+}
+.daviddesigns{
+    display: flex;
+    justify-content: center;
+    background-color: #22092e;
+    padding: 0;
+    margin: 0;
 }
 .container{
     display: flex;
