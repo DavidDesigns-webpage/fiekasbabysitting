@@ -47,3 +47,8 @@ function flash(){
     bar.classList.remove("flash");
   }, 1000);
 }
+
+const year = document.getElementById("year");
+if (year){
+    year.textContent = new Date().getFullYear();
+};
