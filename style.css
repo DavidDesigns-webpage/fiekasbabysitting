@@ -219,7 +219,7 @@ h1, h2{
 }
 .photoBanner h1{
     text-align: center;
-    z-index: 0;
+    z-index: 1;
     color: #f2f2f2;
 }
 .photoBanner{
@@ -238,7 +238,7 @@ h1, h2{
     transform: translateZ(0);
     contain: layout paint;
 }
-.photoBanner img{
+.photoBanner .pic{
     z-index: -1;
     width: 100%;
     height: auto;
@@ -246,6 +246,24 @@ h1, h2{
     object-position: center;
     display: block;
     position: absolute;
+}
+.photoBanner .tag{
+    display: flex;
+    position: absolute;
+    z-index: 0;
+    width: 100px;
+    height: auto;
+    bottom: -30px;
+    right: 1px;
+}
+.photoBanner .tagL{
+    display: flex;
+    position: absolute;
+    z-index: 0;
+    width: 100px;
+    height: auto;
+    bottom: -30px;
+    left: 1px;   
 }
 .packagePanel h1{
     margin: 0;
